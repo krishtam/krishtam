@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @krishtam
 - 👀 I’m interested in ...
 - Learning new techonolgies
-- Game developing (trying to learn more about it)
+- AI
+- Frontend / backend development
+- Game development
 - 📫 How to reach me ...
 - krishtt2009@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I switched over to this account because my email and git username was cornily named "krishtopprogrammer" when I was 8.
+  
